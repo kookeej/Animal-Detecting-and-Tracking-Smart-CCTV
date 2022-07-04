@@ -1,4 +1,4 @@
-🐗 농작물 피해 예방 야생동물 탐지 SMART CCTV 시스템
+[CAPSTONE DESIGN]농작물 피해 예방 야생동물 탐지 SMART CCTV 시스템
 ===
 ### 📢 CAPSTONE DESIGN에서 은상🥈을 수상한 프로젝트입니다.
 
